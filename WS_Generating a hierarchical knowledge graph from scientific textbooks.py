@@ -1,4 +1,3 @@
-# Master Thesis
 # WS_progect 2019
 # Generating a hierarchical knowledge graph from scientific textbooks
 
